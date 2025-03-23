@@ -6,7 +6,7 @@
  
  - 📫 How to reach me **susmitamandal752004@gmail.com**
  
- - 📄 Know about my experiences [C:\Users\sumit\OneDrive\Documents\SusmitaMandal_Resume.pdf] (C:\Users\sumit\OneDrive\Documents\SusmitaMandal_Resume.pdf)
+ - 📄 Know about my experiences (C:\Users\sumit\OneDrive\Documents\SusmitaMandal_Resume.pdf)
  
  <h3 align="left">Connect with me:</h3>
  <p align="left">
