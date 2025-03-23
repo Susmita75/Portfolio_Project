@@ -159,7 +159,6 @@ header {
 }
 
 .img img{
-    /* padding-bottom: 20%; */
     height: 400px;
     width: 100%;
     max-width: 400px;
@@ -171,7 +170,6 @@ header {
 }
 
 .about{
-    /* margin-top: 150px; */
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
@@ -181,7 +179,6 @@ header {
 }
 
 .about-img img{
-    /* padding-bottom: 20%; */
     height: 400px;
     width: 80%;
     max-width: 400px;
@@ -298,10 +295,7 @@ section {
     border-radius: 10px;
     animation: animate 1s 1s cubic-bezier(1,0,0,5,1) forwards;
     transform: scaleX(1);
-    /* width: 100%;
-    display: block; */
     transform-origin: left;
-    /* width: 100%; */
 }
 
 .progress-line.html span{
@@ -475,17 +469,6 @@ section {
     animation: showText 0.5s 1s linear forwards;
     opacity: 0;
 }
-/* .contact{
-    height: 900px;
-    width: 100%;
-    display: grid;
-    text-align: center;
-    grid-template-columns: repeat(2, 1fr);
-    /* align-items: center; */
-    /* gap: 3rem;
-    padding-left: 30px;
-    margin-top: 150px;
-} */
 
 .title{
     text-align: center;
@@ -502,27 +485,10 @@ section {
     grid-template-columns: repeat(2, 1fr);
     justify-content: center;
     text-align: center;
-    /* margin-top: 50px; */
     gap: 5px;
     height: 400px;
     width: 100%;
 }
-/* .contact-text h2{
-    font-size: 90px;
-    line-height: 1;
-    text-align: center;
-}
-
-.contact-text h2 span{
-    color: #0ef;
-} */
-
-/* .contact-text h4{
-    margin: 15px 0;
-    color: rgb(228,228,228);
-    font-size: 20px;
-    font-weight: 600;
-} */
 .contact-list{
     margin-bottom: 3rem;
     text-align: center;
