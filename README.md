@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Susmita Mandal</h1>
  <h3 align="center">A passionate frontend developer from West Bengal in India and a Motivated Computer Science Engineering student with a strong foundation in programming, data structures, and algorithms.I am always eager to learn and experiment with new technologies to create modern and innovative web experiences. I'm open to freelance projects, collaborations, and exciting opportunities in frontend development. Seeking opportunities to apply classroom knowledge to real-world challenges.</h3>
  
- - 💬 Ask me about **HTML,CSS,JAVASCRIPT,MYSQL,Java,DSA**
+ - 💬 Ask me about **HTML,CSS,JAVASCRIPT,MYSQL,Python,DSA,Database Management Systems,OOPs**
  
  - 📫 How to reach me **susmitamandal752004@gmail.com**
  
