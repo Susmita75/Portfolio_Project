@@ -11,7 +11,6 @@
  - ## 🔗 Live Demo
 
 🎯 [View Portfolio][(https://Susmita75.github.io/portfolio/)  ](http://127.0.0.1:5500/Index.html)
-> *(Replace with your actual GitHub Pages link if hosted)*
 
 
  <h3 align="left">Connect with me:</h3>
