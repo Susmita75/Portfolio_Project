@@ -8,7 +8,7 @@
  
  - 📄 Know about my experiences (C:\Users\sumit\OneDrive\Documents\SusmitaMandal_Resume.pdf)
 
- - 🔗 [See my Portfolio] (https://github.com/Susmita75/Portfolio_Project)
+ - 🔗 [See my Portfolio] (https://Susmita75.github.io/Portfolio_Project/)
 
 
  
