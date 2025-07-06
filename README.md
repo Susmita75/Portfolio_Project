@@ -7,6 +7,9 @@
  - 📫 How to reach me **susmitamandal752004@gmail.com**
  
  - 📄 Know about my experiences (C:\Users\sumit\OneDrive\Documents\SusmitaMandal_Resume.pdf)
+
+ - 🔗 [See my Portfolio][(https://Susmita75.github.io/Portfolio_Project/)  ]((http://127.0.0.1:5500/Index.html))
+
  
  <h3 align="left">Connect with me:</h3>
  <p align="left">
