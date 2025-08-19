@@ -8,11 +8,6 @@
  
  - 📄 Know about my experiences (C:\Users\sumit\OneDrive\Documents\SusmitaMandal_Resume.pdf)
 
- - ## 🔗 Live Demo
-
-🎯 [View Portfolio][(https://Susmita75.github.io/portfolio/)  ](http://127.0.0.1:5500/Index.html)
-
-
  <h3 align="left">Connect with me:</h3>
  <p align="left">
  <a href="https://www.linkedin.com/in/susmita-mandal-0aa079278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a> 
