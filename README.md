@@ -51,7 +51,7 @@ A passionate Frontend Developer from West Bengal, India and a motivated Computer
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Susmita75&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=susmita75&show_icons=true&locale=en&layout=compact" alt="susmita75" />
 </p>
 
 ---
