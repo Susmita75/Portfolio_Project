@@ -9,20 +9,20 @@ A passionate Frontend Developer and data analysis from West Bengal, India and a 
 ---
 
 ### 👩‍💻 About Me
-- 🌱 Currently learning and improving my skills in *Frontend Development & Data Analysis*
-- 💡 Strong foundation in *Programming, DSA, DBMS, and OOPs*
-- 🤝 Open to *internships, freelance projects, and collaborations*
+- 🌱 Currently learning and improving my skills in Frontend Development & Data Analysis
+- 💡 Strong foundation in Programming, DSA, DBMS, and OOPs
+- 🤝 Open to internships, freelance projects, and collaborations
 - 🎯 Seeking opportunities to apply classroom knowledge to real-world problems
 
 ---
 
 ### 💬 Ask me about
-*HTML, CSS, JavaScript, C, Python, DSA, DBMS, OOPs, MySQL, Excel, Power BI*
+HTML, CSS, JavaScript, C, Python, DSA, DBMS, OOPs, MySQL, Excel, Power BI
 
 ---
 
 ### 📫 How to reach me
-📧 *Email:* susmitamandal752004@gmail.com  
+📧 Email: susmitamandal752004@gmail.com  
 
 ---
 
@@ -33,6 +33,9 @@ A passionate Frontend Developer and data analysis from West Bengal, India and a 
 </a>
 <a href="https://www.facebook.com/share/1DoSUXJLAJ/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" />
+</a>
+<a target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" height="40" />
 </a>
 </p>
 
