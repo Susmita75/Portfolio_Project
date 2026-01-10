@@ -35,7 +35,7 @@ HTML, CSS, JavaScript, C, Python, DSA, DBMS, OOPs, MySQL, Excel, Power BI
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" />
 </a>
 <a target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/WhatsApp/WhatsApp-original.svg" height="40" />
 </a>
 </p>
 
