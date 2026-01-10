@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Susmita Mandal</h1>
 
 <h3 align="center">
-A passionate Frontend Developer from West Bengal, India and a motivated Computer Science Engineering student
+A passionate Frontend Developer and data analysis from West Bengal, India and a motivated Computer Science Engineering student
 </h3>
 
 ---
@@ -31,6 +31,9 @@ A passionate Frontend Developer from West Bengal, India and a motivated Computer
 <a href="https://www.linkedin.com/in/susmita-mandal-0aa079278" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
 </a>
+<a href="https://www.facebook.com/share/1DoSUXJLAJ/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" />
+</a>
 </p>
 
 ---
@@ -45,13 +48,6 @@ A passionate Frontend Developer from West Bengal, India and a motivated Computer
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=susmita75&show_icons=true&locale=en&layout=compact" alt="susmita75" />
 </p>
 
 ---
